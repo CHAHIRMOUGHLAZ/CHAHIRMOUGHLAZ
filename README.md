@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHAHIRMOUGHLAZ
 - 👀 I’m interested in websites development. 
-- 🌱 I’m currently learning HTML, Javascript, CSS,MYSQL, and PHP. 
+- 🌱 I’m currently learning HTML, Javascript, CSS, MYSQL, and PHP. 
 - 💞️ I’m looking to collaborate on back and front end websites development. 
 - 📫 How to reach me Cmoughlaz1@gmail.com
 
